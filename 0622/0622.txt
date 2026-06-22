@@ -1,0 +1,53 @@
+ftpserver.ksecole.kr
+	id : intel
+	pwd : intel7
+
+https://wikidocs.net/
+https://github.com/
+
+인공지능프로그래밍 단톡방
+	채팅방 : 인텔7기
+	참여코드 : intel
+
+https://www.python.org/
+Downloads - Python install manager
+Win + r : "cmd"
+>python
+(prompt) >> 상단에 있는 버전 확인
+
+건강(수면)
+
+https://notebooklm.google.com/
+
+파인만 공부법
+(에빙 하우스의 망각곡선)
+
+
+Graphic User Interface
+Command Line Interface
+
+Win + e -> 디렉토리(폴더) 이동 -> Alt + d(주소창)
+-> Ctrl + c -> Alt+Tab(Command 창으로 이동) -> cd Ctrl+v
+
+메모장에서 아래의 내용 입력
+-------------------------------
+print("Welcome to Python")
+print("1 + 2 =", 1+2)
+print("원하는 문자열을 출력할 때는 print함수를 이용함")
+-------------------------------
+문서\intel\python.py 로 저장
+
+alt+tab(command 창으로 이동)
+>dir
+>python hello.py
+
+자격증
+ADsP => ADP
+SQLD
+
+통합개발환경(IDE)
+pycharm
+vs code
+
+tiobe index
+
