@@ -1,0 +1,79 @@
+# Python List
+
+## 리스트(List)란?
+
+리스트(List)는 여러 개의 데이터를 하나의 변수에 저장하는 컨테이너 자료형이다.
+
+### 특징
+
+- 순서(O)
+- 중복(O)
+- 수정(O)
+- 다양한 자료형 저장 가능
+
+```python
+fruits = ["apple", "banana", "orange"]
+```
+
+---
+
+## 주요 함수
+
+### append()
+
+리스트의 마지막에 요소를 추가한다.
+
+```python
+fruits.append("grape")
+```
+
+### insert()
+
+원하는 위치에 요소를 삽입한다.
+
+```python
+fruits.insert(1, "kiwi")
+```
+
+### remove()
+
+값을 삭제한다.
+
+```python
+fruits.remove("banana")
+```
+
+### pop()
+
+마지막 요소를 반환하면서 삭제한다.
+
+```python
+fruits.pop()
+```
+
+### sort()
+
+원본 리스트를 정렬한다.
+
+```python
+numbers.sort()
+```
+
+### sorted()
+
+새로운 정렬된 리스트를 반환한다.
+
+```python
+sorted(numbers)
+```
+
+---
+
+## sort()와 sorted() 차이
+
+| sort() | sorted() |
+|---------|----------|
+| 원본 변경 | 원본 유지 |
+| 반환값 없음(None) | 새로운 리스트 반환 |
+
+---
