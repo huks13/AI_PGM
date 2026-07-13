@@ -1,0 +1,17 @@
+https://www.blog.data101.io/318
+
+stack overflow
+
+변수 리터럴 상수
+연산자
+제어문
+함수
+클래스
+모듈 : 서로 연관성 있는 변수, 함수, 클래스가 모여있는 파일
+패키지 : 서로 연관성 있는 모듈이 모여있는 것
+
+특정 도메인에 사용할 수 있는 많은 패키지들 준비되어 있음
+도메인의 지식을 얻고, 거기에 맞는 패키지를 활용하여 문제 해결
+
+>python --version
+Ctrl + Shift + p : "Python: selec interpreter
